@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=XN5elYWiSuw&t=2s
 `git init`<br>
 `touch .gitignore`<br>
 `echo node_modules > .gitignore`<br>
+
+## 2. Add CSS
