@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=XN5elYWiSuw&t=2s
 `echo node_modules > .gitignore`<br>
 
 ## 2. Add CSS
+
+## 3. Add functions and components
